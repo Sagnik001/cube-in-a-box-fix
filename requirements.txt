@@ -1,6 +1,6 @@
 --extra-index-url https://packages.dea.ga.gov.au/
 aiohttp
-aiobotocore[boto3,awscli]==1.0.7
+aiobotocore==2.9.1
 pyyaml
 wget
 requests
