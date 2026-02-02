@@ -33,3 +33,4 @@ sat-search
 # for tests
 pytest
 testbook
+nbconvert>=7.17.0 # not directly required, pinned by Snyk to avoid a vulnerability
